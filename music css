@@ -1,0 +1,153 @@
+.background-conatiner {
+    background-image: url("https://new-assets.ccbp.in/frontend/static-website/moon-stars-bg.png");
+    height: 120vh;
+    width: 128vw;
+    background-size: cover;
+}
+
+.main-heading {
+    font-size: 40px;
+    font-family: "Bree Serif";
+    color: white;
+    text-align: center;
+    padding: 100px;
+}
+
+.main-para {
+    font-size: 24px;
+    font-family: "Bree Serif";
+    color: #98a1bd;
+    text-align: center;
+    padding: 0px;
+
+}
+
+.sleep-card {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/moon-bg.png");
+    height: 60vh;
+    background-size: cover;
+    border-radius: 8px;
+    margin: 20px;
+}
+
+.sleep-heading {
+    font-size: 50px;
+    font-family: "Bree Serif";
+    color: #ffe7bf;
+    text-align: center;
+    padding: 100px;
+    font-weight: lighter;
+}
+
+.night-card {
+    background-color: #03174c;
+    height: 30vh;
+    width: 128vw;
+}
+
+.night-para {
+    font-size: 24px;
+    font-family: "Bree Serif";
+    color: #98a1bd;
+    text-align: center;
+    padding: 0px;
+}
+
+.btn {
+    border-radius: 20px;
+    height: 40px;
+    width: 140px;
+    font-size: 18px;
+    font-family: "Bree Serif";
+
+}
+
+.btn-purple {
+    background-color: #8e97fd;
+    color: white;
+}
+
+.music-img {
+    height: 450px;
+    width: 840px;
+}
+
+.night-container {
+    height: 90vh;
+    background-color: #03174c;
+    width: 128vw;
+
+}
+
+.music-heading {
+    font-size: 40px;
+    font-family: "Bree Serif";
+    color: white;
+    text-align: left;
+    padding: 20px;
+    font-weight: lighter;
+}
+
+.music-para {
+    font-size: 20px;
+    font-family: "Bree Serif";
+    color: #98a1bd;
+    text-align: left;
+    padding: 30px;
+}
+
+.island-container {
+    background-color: #03174c;
+    height: 80vh;
+    width: 128vw;
+}
+
+.island-heading {
+    font-size: 30px;
+    font-family: "Bree Serif";
+    color: white;
+    text-align: left;
+    padding: 20px;
+    font-weight: lighter;
+}
+
+.island-img {
+    height: 200px;
+    width: 400px;
+    margin-right: 10px;
+}
+
+.cloud-heading {
+    font-size: 19px;
+    font-family: "Bree Serif";
+    color: white;
+    text-align: left;
+    padding: 20px;
+    font-weight: lighter;
+}
+
+.related-card {
+    margin-right: 10px;
+}
+
+.cloud-para {
+    font-size: 18px;
+    font-family: "Bree Serif";
+    color: #98a1bd;
+    text-align: left;
+    padding: 10px;
+}
+
+.btn {
+    border-radius: 20px;
+    height: 40px;
+    width: 140px;
+    font-size: 18px;
+    font-family: "Bree Serif";
+
+}
+
+.btn-purple {
+    background-color: #8e97fd;
+    color: white;
+}
